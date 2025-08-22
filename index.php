@@ -1,1 +1,2 @@
-<?php echo "Salam Furqan!"; ?>
+<?php
+echo "Salam Furqan!";
